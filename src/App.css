@@ -1,0 +1,20 @@
+.mainDiv{
+  text-align: center;
+  margin:30px
+}
+.buttonStyle{
+  padding:10px;
+  background-color:#6C63FF;
+  color:#FFFFFF;
+  border:none;
+  border-radius: 4px;
+}
+.dataDiv{
+  /* border:1px solid pink; */
+  margin:30px;
+  
+}
+ 
+
+
+
